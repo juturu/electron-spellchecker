@@ -1,6 +1,6 @@
 import {getInstalledKeyboardLanguages} from 'keyboard-layout';
 import {spawn} from 'spawn-rx';
-import {requireTaskPool} from 'electron-remote';
+import {requireTaskPool} from '@juturu/electron-remote';
 import LRU from 'lru-cache';
 
 import {Subscription} from 'rxjs/Subscription';

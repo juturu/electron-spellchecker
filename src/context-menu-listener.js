@@ -1,7 +1,7 @@
 import {remote} from 'electron';
 import { Observable } from 'rxjs/Observable';
 import { Subscription } from 'rxjs/Subscription';
-import { fromRemoteWindow } from 'electron-remote';
+import { fromRemoteWindow } from '@juturu/electron-remote';
 
 import 'rxjs/add/observable/fromEvent';
 import 'rxjs/add/operator/map';

@@ -20,7 +20,7 @@ const app = process.type === 'renderer' ?
   require('electron').app;
 
 const {downloadFileOrUrl} =
-  require('electron-remote').requireTaskPool(require.resolve('electron-remote/remote-ajax'));
+  require('@juturu/electron-remote').requireTaskPool(require.resolve('@juturu/electron-remote/remote-ajax'));
 
 /**
  * DictioanrySync handles downloading and saving Hunspell dictionaries. Pass it
