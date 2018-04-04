@@ -1,5 +1,5 @@
 {
-  "name": "electron-spellchecker",
+  "name": "@juturu/electron-spellchecker",
   "version": "1.0.4",
   "description": "Implement spellchecking, correctly",
   "scripts": {
