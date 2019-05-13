@@ -1,6 +1,6 @@
 {
   "name": "electron-spellcheckr",
-  "version": "1.2.1",
+  "version": "1.2.4",
   "description": "Implement spellchecking, correctly",
   "scripts": {
     "doc": "esdoc -c ./esdoc.json",
