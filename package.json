@@ -1,6 +1,6 @@
 {
-  "name": "electron-spellcheckr",
-  "version": "1.2.4",
+  "name": "@juturu/electron-spellcheckr",
+  "version": "1.2.5",
   "description": "Implement spellchecking, correctly",
   "scripts": {
     "doc": "esdoc -c ./esdoc.json",
@@ -32,7 +32,7 @@
     "@paulcbetts/cld": "^2.4.6",
     "node-spellcheckr": "4.0.1",
     "debug": "^2.5.1",
-    "@juturu/electron-remote": "1.1.2",
+    "@juturu/electron-remote": "1.1.3",
     "keyboard-layout": "^2.0.7",
     "lru-cache": "^4.0.2",
     "mkdirp": "^0.5.1",
